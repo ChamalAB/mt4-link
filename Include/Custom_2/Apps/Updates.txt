@@ -1,0 +1,16 @@
+StrategyApp
+	// STRATEGY [strategy class instructions]
+
+
+
+Strategy Class
+	// StrategyName [trade controller instructions] 
+	
+
+Trade Controller Class()
+	// 32	OPEN 	BUY/SELL	PENDING/MARKET SYMBOL		PRICE [expiration if market] MAGICNUMBER COMMENT 
+	// 32	MODIFY 	SL 			PRICE
+	// 32	MODIFY 	TP 			PRICE
+	// 32	CLOSE
+	Porcupine
+	trade

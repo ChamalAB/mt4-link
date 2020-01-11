@@ -1,0 +1,7 @@
+mt4link to-do
+
+1. Send message method [done]
+3. add porcupine persistance [done]
+4. Add logging [done]
+5. add minimum delay controller [done]
+6. add logging to porcupine
